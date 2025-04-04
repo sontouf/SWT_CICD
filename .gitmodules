@@ -1,0 +1,6 @@
+[submodule "SWT_TeamA"]
+	path = SWT_TeamA
+	url = https://github.com/sontouf/SWT_TeamA.git
+[submodule "SWT_TeamB"]
+	path = SWT_TeamB
+	url = https://github.com/sontouf/SWT_TeamB.git
